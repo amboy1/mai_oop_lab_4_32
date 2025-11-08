@@ -1,0 +1,5 @@
+if(EXISTS "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests[1]_tests.cmake")
+  include("/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests[1]_tests.cmake")
+else()
+  add_test(gtests_NOT_BUILT gtests_NOT_BUILT)
+endif()

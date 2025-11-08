@@ -1,0 +1,1757 @@
+Start testing: Nov 08 14:55 MSK
+----------------------------------------------------------
+1/60 Testing: PointTest.DefaultConstructor
+1/60 Test: PointTest.DefaultConstructor
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=PointTest.DefaultConstructor" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"PointTest.DefaultConstructor" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTest.DefaultConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTest
+[ RUN      ] PointTest.DefaultConstructor
+[       OK ] PointTest.DefaultConstructor (0 ms)
+[----------] 1 test from PointTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PointTest.DefaultConstructor" end time: Nov 08 14:55 MSK
+"PointTest.DefaultConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/60 Testing: PointTest.ParameterizedConstructor
+2/60 Test: PointTest.ParameterizedConstructor
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=PointTest.ParameterizedConstructor" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"PointTest.ParameterizedConstructor" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTest.ParameterizedConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTest
+[ RUN      ] PointTest.ParameterizedConstructor
+[       OK ] PointTest.ParameterizedConstructor (0 ms)
+[----------] 1 test from PointTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PointTest.ParameterizedConstructor" end time: Nov 08 14:55 MSK
+"PointTest.ParameterizedConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/60 Testing: PointTest.EqualityOperator
+3/60 Test: PointTest.EqualityOperator
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=PointTest.EqualityOperator" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"PointTest.EqualityOperator" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTest.EqualityOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTest
+[ RUN      ] PointTest.EqualityOperator
+[       OK ] PointTest.EqualityOperator (0 ms)
+[----------] 1 test from PointTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PointTest.EqualityOperator" end time: Nov 08 14:55 MSK
+"PointTest.EqualityOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/60 Testing: SquareTest.CenterAndArea
+4/60 Test: SquareTest.CenterAndArea
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=SquareTest.CenterAndArea" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"SquareTest.CenterAndArea" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = SquareTest.CenterAndArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SquareTest
+[ RUN      ] SquareTest.CenterAndArea
+[       OK ] SquareTest.CenterAndArea (0 ms)
+[----------] 1 test from SquareTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SquareTest.CenterAndArea" end time: Nov 08 14:55 MSK
+"SquareTest.CenterAndArea" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/60 Testing: SquareTest.EqualityOperator
+5/60 Test: SquareTest.EqualityOperator
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=SquareTest.EqualityOperator" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"SquareTest.EqualityOperator" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = SquareTest.EqualityOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SquareTest
+[ RUN      ] SquareTest.EqualityOperator
+[       OK ] SquareTest.EqualityOperator (0 ms)
+[----------] 1 test from SquareTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"SquareTest.EqualityOperator" end time: Nov 08 14:55 MSK
+"SquareTest.EqualityOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/60 Testing: TriangleTest.CenterAndArea
+6/60 Test: TriangleTest.CenterAndArea
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=TriangleTest.CenterAndArea" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"TriangleTest.CenterAndArea" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = TriangleTest.CenterAndArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TriangleTest
+[ RUN      ] TriangleTest.CenterAndArea
+[       OK ] TriangleTest.CenterAndArea (0 ms)
+[----------] 1 test from TriangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TriangleTest.CenterAndArea" end time: Nov 08 14:55 MSK
+"TriangleTest.CenterAndArea" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/60 Testing: TriangleTest.EqualityOperator
+7/60 Test: TriangleTest.EqualityOperator
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=TriangleTest.EqualityOperator" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"TriangleTest.EqualityOperator" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = TriangleTest.EqualityOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TriangleTest
+[ RUN      ] TriangleTest.EqualityOperator
+[       OK ] TriangleTest.EqualityOperator (0 ms)
+[----------] 1 test from TriangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TriangleTest.EqualityOperator" end time: Nov 08 14:55 MSK
+"TriangleTest.EqualityOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/60 Testing: OctagonTest.CenterAndArea
+8/60 Test: OctagonTest.CenterAndArea
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=OctagonTest.CenterAndArea" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"OctagonTest.CenterAndArea" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = OctagonTest.CenterAndArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from OctagonTest
+[ RUN      ] OctagonTest.CenterAndArea
+[       OK ] OctagonTest.CenterAndArea (0 ms)
+[----------] 1 test from OctagonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"OctagonTest.CenterAndArea" end time: Nov 08 14:55 MSK
+"OctagonTest.CenterAndArea" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/60 Testing: OctagonTest.EqualityOperator
+9/60 Test: OctagonTest.EqualityOperator
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=OctagonTest.EqualityOperator" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"OctagonTest.EqualityOperator" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = OctagonTest.EqualityOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from OctagonTest
+[ RUN      ] OctagonTest.EqualityOperator
+[       OK ] OctagonTest.EqualityOperator (0 ms)
+[----------] 1 test from OctagonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"OctagonTest.EqualityOperator" end time: Nov 08 14:55 MSK
+"OctagonTest.EqualityOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/60 Testing: ArrayPolyTest.AddAndSize
+10/60 Test: ArrayPolyTest.AddAndSize
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayPolyTest.AddAndSize" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayPolyTest.AddAndSize" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayPolyTest.AddAndSize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayPolyTest
+[ RUN      ] ArrayPolyTest.AddAndSize
+[       OK ] ArrayPolyTest.AddAndSize (0 ms)
+[----------] 1 test from ArrayPolyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayPolyTest.AddAndSize" end time: Nov 08 14:55 MSK
+"ArrayPolyTest.AddAndSize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/60 Testing: ArrayPolyTest.RemoveWorks
+11/60 Test: ArrayPolyTest.RemoveWorks
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayPolyTest.RemoveWorks" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayPolyTest.RemoveWorks" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayPolyTest.RemoveWorks
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayPolyTest
+[ RUN      ] ArrayPolyTest.RemoveWorks
+Element at index 0 removed.
+[       OK ] ArrayPolyTest.RemoveWorks (0 ms)
+[----------] 1 test from ArrayPolyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayPolyTest.RemoveWorks" end time: Nov 08 14:55 MSK
+"ArrayPolyTest.RemoveWorks" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/60 Testing: ArrayPolyTest.RemoveInvalidThrows
+12/60 Test: ArrayPolyTest.RemoveInvalidThrows
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayPolyTest.RemoveInvalidThrows" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayPolyTest.RemoveInvalidThrows" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayPolyTest.RemoveInvalidThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayPolyTest
+[ RUN      ] ArrayPolyTest.RemoveInvalidThrows
+[       OK ] ArrayPolyTest.RemoveInvalidThrows (0 ms)
+[----------] 1 test from ArrayPolyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayPolyTest.RemoveInvalidThrows" end time: Nov 08 14:55 MSK
+"ArrayPolyTest.RemoveInvalidThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/60 Testing: ArrayPolyTest.PrintEmptyThrows
+13/60 Test: ArrayPolyTest.PrintEmptyThrows
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayPolyTest.PrintEmptyThrows" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayPolyTest.PrintEmptyThrows" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayPolyTest.PrintEmptyThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayPolyTest
+[ RUN      ] ArrayPolyTest.PrintEmptyThrows
+[       OK ] ArrayPolyTest.PrintEmptyThrows (0 ms)
+[----------] 1 test from ArrayPolyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayPolyTest.PrintEmptyThrows" end time: Nov 08 14:55 MSK
+"ArrayPolyTest.PrintEmptyThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/60 Testing: ArrayPolyTest.TotalAreaOutput
+14/60 Test: ArrayPolyTest.TotalAreaOutput
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayPolyTest.TotalAreaOutput" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayPolyTest.TotalAreaOutput" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayPolyTest.TotalAreaOutput
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayPolyTest
+[ RUN      ] ArrayPolyTest.TotalAreaOutput
+[       OK ] ArrayPolyTest.TotalAreaOutput (0 ms)
+[----------] 1 test from ArrayPolyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayPolyTest.TotalAreaOutput" end time: Nov 08 14:55 MSK
+"ArrayPolyTest.TotalAreaOutput" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/60 Testing: ArrayPolyTest.MoveSemantics
+15/60 Test: ArrayPolyTest.MoveSemantics
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayPolyTest.MoveSemantics" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayPolyTest.MoveSemantics" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayPolyTest.MoveSemantics
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayPolyTest
+[ RUN      ] ArrayPolyTest.MoveSemantics
+[       OK ] ArrayPolyTest.MoveSemantics (0 ms)
+[----------] 1 test from ArrayPolyTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayPolyTest.MoveSemantics" end time: Nov 08 14:55 MSK
+"ArrayPolyTest.MoveSemantics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/60 Testing: ArraySquareDoubleTest.DefaultConstruction
+16/60 Test: ArraySquareDoubleTest.DefaultConstruction
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.DefaultConstruction" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.DefaultConstruction" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.DefaultConstruction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.DefaultConstruction
+[       OK ] ArraySquareDoubleTest.DefaultConstruction (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.DefaultConstruction" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.DefaultConstruction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/60 Testing: ArraySquareDoubleTest.AddMultipleSquares
+17/60 Test: ArraySquareDoubleTest.AddMultipleSquares
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.AddMultipleSquares" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.AddMultipleSquares" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.AddMultipleSquares
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.AddMultipleSquares
+[       OK ] ArraySquareDoubleTest.AddMultipleSquares (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.AddMultipleSquares" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.AddMultipleSquares" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/60 Testing: ArraySquareDoubleTest.RemoveMiddleElement
+18/60 Test: ArraySquareDoubleTest.RemoveMiddleElement
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.RemoveMiddleElement" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.RemoveMiddleElement" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.RemoveMiddleElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.RemoveMiddleElement
+Element at index 1 removed.
+[       OK ] ArraySquareDoubleTest.RemoveMiddleElement (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.RemoveMiddleElement" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.RemoveMiddleElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/60 Testing: ArraySquareDoubleTest.RemoveLastElement
+19/60 Test: ArraySquareDoubleTest.RemoveLastElement
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.RemoveLastElement" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.RemoveLastElement" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.RemoveLastElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.RemoveLastElement
+Element at index 1 removed.
+[       OK ] ArraySquareDoubleTest.RemoveLastElement (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.RemoveLastElement" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.RemoveLastElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/60 Testing: ArraySquareDoubleTest.IndexOperator
+20/60 Test: ArraySquareDoubleTest.IndexOperator
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.IndexOperator" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.IndexOperator" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.IndexOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.IndexOperator
+[       OK ] ArraySquareDoubleTest.IndexOperator (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.IndexOperator" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.IndexOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/60 Testing: ArraySquareDoubleTest.IndexOutOfRange
+21/60 Test: ArraySquareDoubleTest.IndexOutOfRange
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.IndexOutOfRange" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.IndexOutOfRange" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.IndexOutOfRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.IndexOutOfRange
+[       OK ] ArraySquareDoubleTest.IndexOutOfRange (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.IndexOutOfRange" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.IndexOutOfRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/60 Testing: ArraySquareDoubleTest.PrintEmptyArrayThrows
+22/60 Test: ArraySquareDoubleTest.PrintEmptyArrayThrows
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.PrintEmptyArrayThrows" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.PrintEmptyArrayThrows" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.PrintEmptyArrayThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.PrintEmptyArrayThrows
+[       OK ] ArraySquareDoubleTest.PrintEmptyArrayThrows (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.PrintEmptyArrayThrows" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.PrintEmptyArrayThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/60 Testing: ArraySquareDoubleTest.TotalAreaCalculation
+23/60 Test: ArraySquareDoubleTest.TotalAreaCalculation
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.TotalAreaCalculation" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.TotalAreaCalculation" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.TotalAreaCalculation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.TotalAreaCalculation
+[       OK ] ArraySquareDoubleTest.TotalAreaCalculation (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.TotalAreaCalculation" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.TotalAreaCalculation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/60 Testing: ArraySquareDoubleTest.MoveConstructor
+24/60 Test: ArraySquareDoubleTest.MoveConstructor
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.MoveConstructor" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.MoveConstructor" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.MoveConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.MoveConstructor
+[       OK ] ArraySquareDoubleTest.MoveConstructor (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.MoveConstructor" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.MoveConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/60 Testing: ArraySquareDoubleTest.MoveAssignment
+25/60 Test: ArraySquareDoubleTest.MoveAssignment
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareDoubleTest.MoveAssignment" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareDoubleTest.MoveAssignment" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareDoubleTest.MoveAssignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareDoubleTest
+[ RUN      ] ArraySquareDoubleTest.MoveAssignment
+[       OK ] ArraySquareDoubleTest.MoveAssignment (0 ms)
+[----------] 1 test from ArraySquareDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareDoubleTest.MoveAssignment" end time: Nov 08 14:55 MSK
+"ArraySquareDoubleTest.MoveAssignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/60 Testing: ArraySquareIntTest.WorksWithIntType
+26/60 Test: ArraySquareIntTest.WorksWithIntType
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareIntTest.WorksWithIntType" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareIntTest.WorksWithIntType" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareIntTest.WorksWithIntType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareIntTest
+[ RUN      ] ArraySquareIntTest.WorksWithIntType
+0: Square: (0, 0) (3, 0) (3, 3) (0, 3)  | Area: 9
+1: Square: (0, 0) (4, 0) (4, 4) (0, 4)  | Area: 16
+0: Center = (1, 1)
+1: Center = (2, 2)
+[       OK ] ArraySquareIntTest.WorksWithIntType (0 ms)
+[----------] 1 test from ArraySquareIntTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareIntTest.WorksWithIntType" end time: Nov 08 14:55 MSK
+"ArraySquareIntTest.WorksWithIntType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/60 Testing: ArraySquareIntTest.IntegerArithmetic
+27/60 Test: ArraySquareIntTest.IntegerArithmetic
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareIntTest.IntegerArithmetic" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareIntTest.IntegerArithmetic" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareIntTest.IntegerArithmetic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareIntTest
+[ RUN      ] ArraySquareIntTest.IntegerArithmetic
+[       OK ] ArraySquareIntTest.IntegerArithmetic (0 ms)
+[----------] 1 test from ArraySquareIntTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareIntTest.IntegerArithmetic" end time: Nov 08 14:55 MSK
+"ArraySquareIntTest.IntegerArithmetic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/60 Testing: ArraySquareIntTest.RemoveAndSize
+28/60 Test: ArraySquareIntTest.RemoveAndSize
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArraySquareIntTest.RemoveAndSize" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArraySquareIntTest.RemoveAndSize" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArraySquareIntTest.RemoveAndSize
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArraySquareIntTest
+[ RUN      ] ArraySquareIntTest.RemoveAndSize
+Element at index 1 removed.
+[       OK ] ArraySquareIntTest.RemoveAndSize (0 ms)
+[----------] 1 test from ArraySquareIntTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArraySquareIntTest.RemoveAndSize" end time: Nov 08 14:55 MSK
+"ArraySquareIntTest.RemoveAndSize" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/60 Testing: ArrayTriangleDoubleTest.AddAndRemove
+29/60 Test: ArrayTriangleDoubleTest.AddAndRemove
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayTriangleDoubleTest.AddAndRemove" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayTriangleDoubleTest.AddAndRemove" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTriangleDoubleTest.AddAndRemove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTriangleDoubleTest
+[ RUN      ] ArrayTriangleDoubleTest.AddAndRemove
+Element at index 0 removed.
+[       OK ] ArrayTriangleDoubleTest.AddAndRemove (0 ms)
+[----------] 1 test from ArrayTriangleDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTriangleDoubleTest.AddAndRemove" end time: Nov 08 14:55 MSK
+"ArrayTriangleDoubleTest.AddAndRemove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/60 Testing: ArrayTriangleDoubleTest.PrintOperations
+30/60 Test: ArrayTriangleDoubleTest.PrintOperations
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayTriangleDoubleTest.PrintOperations" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayTriangleDoubleTest.PrintOperations" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTriangleDoubleTest.PrintOperations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTriangleDoubleTest
+[ RUN      ] ArrayTriangleDoubleTest.PrintOperations
+0: Triangle: (0, 0) (2, 0) (1, 2)  | Area: 2
+0: Center = (1, 0.666667)
+Total Area: 2
+[       OK ] ArrayTriangleDoubleTest.PrintOperations (0 ms)
+[----------] 1 test from ArrayTriangleDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTriangleDoubleTest.PrintOperations" end time: Nov 08 14:55 MSK
+"ArrayTriangleDoubleTest.PrintOperations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/60 Testing: ArrayTriangleDoubleTest.TotalArea
+31/60 Test: ArrayTriangleDoubleTest.TotalArea
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayTriangleDoubleTest.TotalArea" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayTriangleDoubleTest.TotalArea" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTriangleDoubleTest.TotalArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTriangleDoubleTest
+[ RUN      ] ArrayTriangleDoubleTest.TotalArea
+[       OK ] ArrayTriangleDoubleTest.TotalArea (0 ms)
+[----------] 1 test from ArrayTriangleDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTriangleDoubleTest.TotalArea" end time: Nov 08 14:55 MSK
+"ArrayTriangleDoubleTest.TotalArea" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/60 Testing: ArrayTriangleDoubleTest.MoveSemantics
+32/60 Test: ArrayTriangleDoubleTest.MoveSemantics
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayTriangleDoubleTest.MoveSemantics" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayTriangleDoubleTest.MoveSemantics" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTriangleDoubleTest.MoveSemantics
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTriangleDoubleTest
+[ RUN      ] ArrayTriangleDoubleTest.MoveSemantics
+[       OK ] ArrayTriangleDoubleTest.MoveSemantics (0 ms)
+[----------] 1 test from ArrayTriangleDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTriangleDoubleTest.MoveSemantics" end time: Nov 08 14:55 MSK
+"ArrayTriangleDoubleTest.MoveSemantics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/60 Testing: ArrayTriangleIntTest.BasicOperations
+33/60 Test: ArrayTriangleIntTest.BasicOperations
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayTriangleIntTest.BasicOperations" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayTriangleIntTest.BasicOperations" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayTriangleIntTest.BasicOperations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayTriangleIntTest
+[ RUN      ] ArrayTriangleIntTest.BasicOperations
+0: Triangle: (0, 0) (4, 0) (2, 3)  | Area: 6
+1: Triangle: (0, 0) (6, 0) (3, 4)  | Area: 12
+[       OK ] ArrayTriangleIntTest.BasicOperations (0 ms)
+[----------] 1 test from ArrayTriangleIntTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayTriangleIntTest.BasicOperations" end time: Nov 08 14:55 MSK
+"ArrayTriangleIntTest.BasicOperations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/60 Testing: ArrayOctagonDoubleTest.AddMultipleOctagons
+34/60 Test: ArrayOctagonDoubleTest.AddMultipleOctagons
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayOctagonDoubleTest.AddMultipleOctagons" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayOctagonDoubleTest.AddMultipleOctagons" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayOctagonDoubleTest.AddMultipleOctagons
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayOctagonDoubleTest
+[ RUN      ] ArrayOctagonDoubleTest.AddMultipleOctagons
+[       OK ] ArrayOctagonDoubleTest.AddMultipleOctagons (0 ms)
+[----------] 1 test from ArrayOctagonDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayOctagonDoubleTest.AddMultipleOctagons" end time: Nov 08 14:55 MSK
+"ArrayOctagonDoubleTest.AddMultipleOctagons" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/60 Testing: ArrayOctagonDoubleTest.RemoveAll
+35/60 Test: ArrayOctagonDoubleTest.RemoveAll
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayOctagonDoubleTest.RemoveAll" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayOctagonDoubleTest.RemoveAll" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayOctagonDoubleTest.RemoveAll
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayOctagonDoubleTest
+[ RUN      ] ArrayOctagonDoubleTest.RemoveAll
+Element at index 0 removed.
+Element at index 0 removed.
+[       OK ] ArrayOctagonDoubleTest.RemoveAll (0 ms)
+[----------] 1 test from ArrayOctagonDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayOctagonDoubleTest.RemoveAll" end time: Nov 08 14:55 MSK
+"ArrayOctagonDoubleTest.RemoveAll" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/60 Testing: ArrayOctagonDoubleTest.PrintOperations
+36/60 Test: ArrayOctagonDoubleTest.PrintOperations
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayOctagonDoubleTest.PrintOperations" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayOctagonDoubleTest.PrintOperations" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayOctagonDoubleTest.PrintOperations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayOctagonDoubleTest
+[ RUN      ] ArrayOctagonDoubleTest.PrintOperations
+0: Octagon: (1, 0) (0.707107, 0.707107) (6.12323e-17, 1) (-0.707107, 0.707107) (-1, 1.22465e-16) (-0.707107, -0.707107) (-1.83697e-16, -1) (0.707107, -0.707107)  | Area: 2.82843
+0: Center = (-6.93889e-17, -2.77556e-17)
+Total Area: 2.82843
+[       OK ] ArrayOctagonDoubleTest.PrintOperations (0 ms)
+[----------] 1 test from ArrayOctagonDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayOctagonDoubleTest.PrintOperations" end time: Nov 08 14:55 MSK
+"ArrayOctagonDoubleTest.PrintOperations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/60 Testing: ArrayOctagonDoubleTest.IndexAccess
+37/60 Test: ArrayOctagonDoubleTest.IndexAccess
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayOctagonDoubleTest.IndexAccess" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayOctagonDoubleTest.IndexAccess" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayOctagonDoubleTest.IndexAccess
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayOctagonDoubleTest
+[ RUN      ] ArrayOctagonDoubleTest.IndexAccess
+[       OK ] ArrayOctagonDoubleTest.IndexAccess (0 ms)
+[----------] 1 test from ArrayOctagonDoubleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayOctagonDoubleTest.IndexAccess" end time: Nov 08 14:55 MSK
+"ArrayOctagonDoubleTest.IndexAccess" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/60 Testing: ArrayMixedTest.GrowthBehavior
+38/60 Test: ArrayMixedTest.GrowthBehavior
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayMixedTest.GrowthBehavior" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayMixedTest.GrowthBehavior" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayMixedTest.GrowthBehavior
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayMixedTest
+[ RUN      ] ArrayMixedTest.GrowthBehavior
+[       OK ] ArrayMixedTest.GrowthBehavior (0 ms)
+[----------] 1 test from ArrayMixedTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayMixedTest.GrowthBehavior" end time: Nov 08 14:55 MSK
+"ArrayMixedTest.GrowthBehavior" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/60 Testing: ArrayMixedTest.RemoveFromEmptyThrows
+39/60 Test: ArrayMixedTest.RemoveFromEmptyThrows
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=ArrayMixedTest.RemoveFromEmptyThrows" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"ArrayMixedTest.RemoveFromEmptyThrows" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = ArrayMixedTest.RemoveFromEmptyThrows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArrayMixedTest
+[ RUN      ] ArrayMixedTest.RemoveFromEmptyThrows
+[       OK ] ArrayMixedTest.RemoveFromEmptyThrows (0 ms)
+[----------] 1 test from ArrayMixedTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"ArrayMixedTest.RemoveFromEmptyThrows" end time: Nov 08 14:55 MSK
+"ArrayMixedTest.RemoveFromEmptyThrows" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/60 Testing: IntegrationTest.AddRemoveAndPrintAll
+40/60 Test: IntegrationTest.AddRemoveAndPrintAll
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.AddRemoveAndPrintAll" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.AddRemoveAndPrintAll" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.AddRemoveAndPrintAll
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.AddRemoveAndPrintAll
+0: Square: (0, 0) (1, 0) (1, 1) (0, 1)  | Area: 1
+1: Triangle: (0, 0) (2, 0) (1, 2)  | Area: 2
+2: Octagon: (1, 0) (0.707107, 0.707107) (6.12323e-17, 1) (-0.707107, 0.707107) (-1, 1.22465e-16) (-0.707107, -0.707107) (-1.83697e-16, -1) (0.707107, -0.707107)  | Area: 2.82843
+0: Center = (0.5, 0.5)
+1: Center = (1, 0.666667)
+2: Center = (-6.93889e-17, -2.77556e-17)
+Total Area: 5.82843
+Element at index 1 removed.
+[       OK ] IntegrationTest.AddRemoveAndPrintAll (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.AddRemoveAndPrintAll" end time: Nov 08 14:55 MSK
+"IntegrationTest.AddRemoveAndPrintAll" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/60 Testing: IntegrationTest.ComplexScenarioWithMultipleOperations
+41/60 Test: IntegrationTest.ComplexScenarioWithMultipleOperations
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.ComplexScenarioWithMultipleOperations" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.ComplexScenarioWithMultipleOperations" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.ComplexScenarioWithMultipleOperations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.ComplexScenarioWithMultipleOperations
+Element at index 1 removed.
+0: Square: (0, 0) (2, 0) (2, 2) (0, 2)  | Area: 4
+1: Octagon: (1, 0) (0.707107, 0.707107) (6.12323e-17, 1) (-0.707107, 0.707107) (-1, 1.22465e-16) (-0.707107, -0.707107) (-1.83697e-16, -1) (0.707107, -0.707107)  | Area: 2.82843
+2: Square: (5, 5) (8, 5) (8, 8) (5, 8)  | Area: 9
+3: Triangle: (1, 1) (3, 1) (2, 2.5)  | Area: 1.5
+0: Center = (1, 1)
+1: Center = (-6.93889e-17, -2.77556e-17)
+2: Center = (6.5, 6.5)
+3: Center = (2, 1.5)
+Total Area: 17.3284
+Element at index 0 removed.
+[       OK ] IntegrationTest.ComplexScenarioWithMultipleOperations (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.ComplexScenarioWithMultipleOperations" end time: Nov 08 14:55 MSK
+"IntegrationTest.ComplexScenarioWithMultipleOperations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/60 Testing: IntegrationTest.TotalAreaCalculationWithMixedFigures
+42/60 Test: IntegrationTest.TotalAreaCalculationWithMixedFigures
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.TotalAreaCalculationWithMixedFigures" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.TotalAreaCalculationWithMixedFigures" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.TotalAreaCalculationWithMixedFigures
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.TotalAreaCalculationWithMixedFigures
+[       OK ] IntegrationTest.TotalAreaCalculationWithMixedFigures (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.TotalAreaCalculationWithMixedFigures" end time: Nov 08 14:55 MSK
+"IntegrationTest.TotalAreaCalculationWithMixedFigures" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/60 Testing: IntegrationTest.RemoveAllElementsOneByOne
+43/60 Test: IntegrationTest.RemoveAllElementsOneByOne
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.RemoveAllElementsOneByOne" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.RemoveAllElementsOneByOne" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.RemoveAllElementsOneByOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.RemoveAllElementsOneByOne
+Element at index 2 removed.
+Element at index 1 removed.
+Element at index 0 removed.
+[       OK ] IntegrationTest.RemoveAllElementsOneByOne (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.RemoveAllElementsOneByOne" end time: Nov 08 14:55 MSK
+"IntegrationTest.RemoveAllElementsOneByOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/60 Testing: IntegrationTest.LargeCollectionOfFigures
+44/60 Test: IntegrationTest.LargeCollectionOfFigures
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.LargeCollectionOfFigures" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.LargeCollectionOfFigures" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.LargeCollectionOfFigures
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.LargeCollectionOfFigures
+Element at index 18 removed.
+Element at index 16 removed.
+Element at index 14 removed.
+Element at index 12 removed.
+Element at index 10 removed.
+Element at index 8 removed.
+Element at index 6 removed.
+Element at index 4 removed.
+Element at index 2 removed.
+Element at index 0 removed.
+0: Triangle: (1, 0) (3, 0) (2, 1)  | Area: 1
+1: Square: (3, 0) (4, 0) (4, 1) (3, 1)  | Area: 1
+2: Octagon: (6, 0) (5.70711, 0.707107) (5, 1) (4.29289, 0.707107) (4, 1.22465e-16) (4.29289, -0.707107) (5, -1) (5.70711, -0.707107)  | Area: 2.82843
+3: Triangle: (7, 0) (9, 0) (8, 1)  | Area: 1
+4: Square: (9, 0) (10, 0) (10, 1) (9, 1)  | Area: 1
+5: Octagon: (12, 0) (11.7071, 0.707107) (11, 1) (10.2929, 0.707107) (10, 1.22465e-16) (10.2929, -0.707107) (11, -1) (11.7071, -0.707107)  | Area: 2.82843
+6: Triangle: (13, 0) (15, 0) (14, 1)  | Area: 1
+7: Square: (15, 0) (16, 0) (16, 1) (15, 1)  | Area: 1
+8: Octagon: (18, 0) (17.7071, 0.707107) (17, 1) (16.2929, 0.707107) (16, 1.22465e-16) (16.2929, -0.707107) (17, -1) (17.7071, -0.707107)  | Area: 2.82843
+9: Triangle: (19, 0) (21, 0) (20, 1)  | Area: 1
+[       OK ] IntegrationTest.LargeCollectionOfFigures (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.LargeCollectionOfFigures" end time: Nov 08 14:55 MSK
+"IntegrationTest.LargeCollectionOfFigures" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/60 Testing: IntegrationTest.AccessElementsAfterModifications
+45/60 Test: IntegrationTest.AccessElementsAfterModifications
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.AccessElementsAfterModifications" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.AccessElementsAfterModifications" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.AccessElementsAfterModifications
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.AccessElementsAfterModifications
+Element at index 1 removed.
+[       OK ] IntegrationTest.AccessElementsAfterModifications (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.AccessElementsAfterModifications" end time: Nov 08 14:55 MSK
+"IntegrationTest.AccessElementsAfterModifications" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/60 Testing: IntegrationTest.CentersCalculationForMixedFigures
+46/60 Test: IntegrationTest.CentersCalculationForMixedFigures
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.CentersCalculationForMixedFigures" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.CentersCalculationForMixedFigures" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.CentersCalculationForMixedFigures
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.CentersCalculationForMixedFigures
+[       OK ] IntegrationTest.CentersCalculationForMixedFigures (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.CentersCalculationForMixedFigures" end time: Nov 08 14:55 MSK
+"IntegrationTest.CentersCalculationForMixedFigures" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/60 Testing: IntegrationTest.MoveEntireArrayWithFigures
+47/60 Test: IntegrationTest.MoveEntireArrayWithFigures
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.MoveEntireArrayWithFigures" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.MoveEntireArrayWithFigures" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.MoveEntireArrayWithFigures
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.MoveEntireArrayWithFigures
+0: Square: (0, 0) (1, 0) (1, 1) (0, 1)  | Area: 1
+1: Triangle: (0, 0) (2, 0) (1, 2)  | Area: 2
+2: Octagon: (1, 0) (0.707107, 0.707107) (6.12323e-17, 1) (-0.707107, 0.707107) (-1, 1.22465e-16) (-0.707107, -0.707107) (-1.83697e-16, -1) (0.707107, -0.707107)  | Area: 2.82843
+[       OK ] IntegrationTest.MoveEntireArrayWithFigures (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.MoveEntireArrayWithFigures" end time: Nov 08 14:55 MSK
+"IntegrationTest.MoveEntireArrayWithFigures" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/60 Testing: IntegrationTest.ComparisonBetweenDifferentFigures
+48/60 Test: IntegrationTest.ComparisonBetweenDifferentFigures
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.ComparisonBetweenDifferentFigures" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.ComparisonBetweenDifferentFigures" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.ComparisonBetweenDifferentFigures
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.ComparisonBetweenDifferentFigures
+[       OK ] IntegrationTest.ComparisonBetweenDifferentFigures (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.ComparisonBetweenDifferentFigures" end time: Nov 08 14:55 MSK
+"IntegrationTest.ComparisonBetweenDifferentFigures" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/60 Testing: IntegrationTest.SameFigureTypeButDifferentParameters
+49/60 Test: IntegrationTest.SameFigureTypeButDifferentParameters
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.SameFigureTypeButDifferentParameters" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.SameFigureTypeButDifferentParameters" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.SameFigureTypeButDifferentParameters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.SameFigureTypeButDifferentParameters
+[       OK ] IntegrationTest.SameFigureTypeButDifferentParameters (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.SameFigureTypeButDifferentParameters" end time: Nov 08 14:55 MSK
+"IntegrationTest.SameFigureTypeButDifferentParameters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/60 Testing: IntegrationTest.StressTestWithManyOperations
+50/60 Test: IntegrationTest.StressTestWithManyOperations
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.StressTestWithManyOperations" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.StressTestWithManyOperations" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.StressTestWithManyOperations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.StressTestWithManyOperations
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+Element at index 0 removed.
+0: Square: (25, 0) (26, 0) (26, 1) (25, 1)  | Area: 1
+1: Square: (26, 0) (27, 0) (27, 1) (26, 1)  | Area: 1
+2: Square: (27, 0) (28, 0) (28, 1) (27, 1)  | Area: 1
+3: Square: (28, 0) (29, 0) (29, 1) (28, 1)  | Area: 1
+4: Square: (29, 0) (30, 0) (30, 1) (29, 1)  | Area: 1
+5: Square: (30, 0) (31, 0) (31, 1) (30, 1)  | Area: 1
+6: Square: (31, 0) (32, 0) (32, 1) (31, 1)  | Area: 1
+7: Square: (32, 0) (33, 0) (33, 1) (32, 1)  | Area: 1
+8: Square: (33, 0) (34, 0) (34, 1) (33, 1)  | Area: 1
+9: Square: (34, 0) (35, 0) (35, 1) (34, 1)  | Area: 1
+10: Square: (35, 0) (36, 0) (36, 1) (35, 1)  | Area: 1
+11: Square: (36, 0) (37, 0) (37, 1) (36, 1)  | Area: 1
+12: Square: (37, 0) (38, 0) (38, 1) (37, 1)  | Area: 1
+13: Square: (38, 0) (39, 0) (39, 1) (38, 1)  | Area: 1
+14: Square: (39, 0) (40, 0) (40, 1) (39, 1)  | Area: 1
+15: Square: (40, 0) (41, 0) (41, 1) (40, 1)  | Area: 1
+16: Square: (41, 0) (42, 0) (42, 1) (41, 1)  | Area: 1
+17: Square: (42, 0) (43, 0) (43, 1) (42, 1)  | Area: 1
+18: Square: (43, 0) (44, 0) (44, 1) (43, 1)  | Area: 1
+19: Square: (44, 0) (45, 0) (45, 1) (44, 1)  | Area: 1
+20: Square: (45, 0) (46, 0) (46, 1) (45, 1)  | Area: 1
+21: Square: (46, 0) (47, 0) (47, 1) (46, 1)  | Area: 1
+22: Square: (47, 0) (48, 0) (48, 1) (47, 1)  | Area: 1
+23: Square: (48, 0) (49, 0) (49, 1) (48, 1)  | Area: 1
+24: Square: (49, 0) (50, 0) (50, 1) (49, 1)  | Area: 1
+25: Triangle: (0, 0) (2, 0) (1, 1)  | Area: 1
+26: Triangle: (1, 0) (3, 0) (2, 1)  | Area: 1
+27: Triangle: (2, 0) (4, 0) (3, 1)  | Area: 1
+28: Triangle: (3, 0) (5, 0) (4, 1)  | Area: 1
+29: Triangle: (4, 0) (6, 0) (5, 1)  | Area: 1
+30: Triangle: (5, 0) (7, 0) (6, 1)  | Area: 1
+31: Triangle: (6, 0) (8, 0) (7, 1)  | Area: 1
+32: Triangle: (7, 0) (9, 0) (8, 1)  | Area: 1
+33: Triangle: (8, 0) (10, 0) (9, 1)  | Area: 1
+34: Triangle: (9, 0) (11, 0) (10, 1)  | Area: 1
+35: Triangle: (10, 0) (12, 0) (11, 1)  | Area: 1
+36: Triangle: (11, 0) (13, 0) (12, 1)  | Area: 1
+37: Triangle: (12, 0) (14, 0) (13, 1)  | Area: 1
+38: Triangle: (13, 0) (15, 0) (14, 1)  | Area: 1
+39: Triangle: (14, 0) (16, 0) (15, 1)  | Area: 1
+40: Triangle: (15, 0) (17, 0) (16, 1)  | Area: 1
+41: Triangle: (16, 0) (18, 0) (17, 1)  | Area: 1
+42: Triangle: (17, 0) (19, 0) (18, 1)  | Area: 1
+43: Triangle: (18, 0) (20, 0) (19, 1)  | Area: 1
+44: Triangle: (19, 0) (21, 0) (20, 1)  | Area: 1
+45: Triangle: (20, 0) (22, 0) (21, 1)  | Area: 1
+46: Triangle: (21, 0) (23, 0) (22, 1)  | Area: 1
+47: Triangle: (22, 0) (24, 0) (23, 1)  | Area: 1
+48: Triangle: (23, 0) (25, 0) (24, 1)  | Area: 1
+49: Triangle: (24, 0) (26, 0) (25, 1)  | Area: 1
+0: Center = (25.5, 0.5)
+1: Center = (26.5, 0.5)
+2: Center = (27.5, 0.5)
+3: Center = (28.5, 0.5)
+4: Center = (29.5, 0.5)
+5: Center = (30.5, 0.5)
+6: Center = (31.5, 0.5)
+7: Center = (32.5, 0.5)
+8: Center = (33.5, 0.5)
+9: Center = (34.5, 0.5)
+10: Center = (35.5, 0.5)
+11: Center = (36.5, 0.5)
+12: Center = (37.5, 0.5)
+13: Center = (38.5, 0.5)
+14: Center = (39.5, 0.5)
+15: Center = (40.5, 0.5)
+16: Center = (41.5, 0.5)
+17: Center = (42.5, 0.5)
+18: Center = (43.5, 0.5)
+19: Center = (44.5, 0.5)
+20: Center = (45.5, 0.5)
+21: Center = (46.5, 0.5)
+22: Center = (47.5, 0.5)
+23: Center = (48.5, 0.5)
+24: Center = (49.5, 0.5)
+25: Center = (1, 0.333333)
+26: Center = (2, 0.333333)
+27: Center = (3, 0.333333)
+28: Center = (4, 0.333333)
+29: Center = (5, 0.333333)
+30: Center = (6, 0.333333)
+31: Center = (7, 0.333333)
+32: Center = (8, 0.333333)
+33: Center = (9, 0.333333)
+34: Center = (10, 0.333333)
+35: Center = (11, 0.333333)
+36: Center = (12, 0.333333)
+37: Center = (13, 0.333333)
+38: Center = (14, 0.333333)
+39: Center = (15, 0.333333)
+40: Center = (16, 0.333333)
+41: Center = (17, 0.333333)
+42: Center = (18, 0.333333)
+43: Center = (19, 0.333333)
+44: Center = (20, 0.333333)
+45: Center = (21, 0.333333)
+46: Center = (22, 0.333333)
+47: Center = (23, 0.333333)
+48: Center = (24, 0.333333)
+49: Center = (25, 0.333333)
+Total Area: 50
+[       OK ] IntegrationTest.StressTestWithManyOperations (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.StressTestWithManyOperations" end time: Nov 08 14:55 MSK
+"IntegrationTest.StressTestWithManyOperations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/60 Testing: IntegrationTest.IndexAccessWithBoundaryChecks
+51/60 Test: IntegrationTest.IndexAccessWithBoundaryChecks
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.IndexAccessWithBoundaryChecks" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.IndexAccessWithBoundaryChecks" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.IndexAccessWithBoundaryChecks
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.IndexAccessWithBoundaryChecks
+Element at index 1 removed.
+[       OK ] IntegrationTest.IndexAccessWithBoundaryChecks (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.IndexAccessWithBoundaryChecks" end time: Nov 08 14:55 MSK
+"IntegrationTest.IndexAccessWithBoundaryChecks" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/60 Testing: IntegrationTest.EmptyArrayOperations
+52/60 Test: IntegrationTest.EmptyArrayOperations
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.EmptyArrayOperations" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.EmptyArrayOperations" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.EmptyArrayOperations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.EmptyArrayOperations
+[       OK ] IntegrationTest.EmptyArrayOperations (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.EmptyArrayOperations" end time: Nov 08 14:55 MSK
+"IntegrationTest.EmptyArrayOperations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/60 Testing: IntegrationTest.MixedIntAndDoubleSquares
+53/60 Test: IntegrationTest.MixedIntAndDoubleSquares
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.MixedIntAndDoubleSquares" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.MixedIntAndDoubleSquares" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.MixedIntAndDoubleSquares
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.MixedIntAndDoubleSquares
+[       OK ] IntegrationTest.MixedIntAndDoubleSquares (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.MixedIntAndDoubleSquares" end time: Nov 08 14:55 MSK
+"IntegrationTest.MixedIntAndDoubleSquares" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/60 Testing: IntegrationTest.RealWorldScenario
+54/60 Test: IntegrationTest.RealWorldScenario
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=IntegrationTest.RealWorldScenario" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"IntegrationTest.RealWorldScenario" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = IntegrationTest.RealWorldScenario
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from IntegrationTest
+[ RUN      ] IntegrationTest.RealWorldScenario
+[       OK ] IntegrationTest.RealWorldScenario (0 ms)
+[----------] 1 test from IntegrationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntegrationTest.RealWorldScenario" end time: Nov 08 14:55 MSK
+"IntegrationTest.RealWorldScenario" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/60 Testing: FigureTest.DifferentTypesNotEqual
+55/60 Test: FigureTest.DifferentTypesNotEqual
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=FigureTest.DifferentTypesNotEqual" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"FigureTest.DifferentTypesNotEqual" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.DifferentTypesNotEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.DifferentTypesNotEqual
+[       OK ] FigureTest.DifferentTypesNotEqual (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.DifferentTypesNotEqual" end time: Nov 08 14:55 MSK
+"FigureTest.DifferentTypesNotEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/60 Testing: FigureTest.DifferentTypesNotEqual_SameArea
+56/60 Test: FigureTest.DifferentTypesNotEqual_SameArea
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=FigureTest.DifferentTypesNotEqual_SameArea" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"FigureTest.DifferentTypesNotEqual_SameArea" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.DifferentTypesNotEqual_SameArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.DifferentTypesNotEqual_SameArea
+[       OK ] FigureTest.DifferentTypesNotEqual_SameArea (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.DifferentTypesNotEqual_SameArea" end time: Nov 08 14:55 MSK
+"FigureTest.DifferentTypesNotEqual_SameArea" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/60 Testing: FigureTest.DifferentTypesNotEqual_SameCenters
+57/60 Test: FigureTest.DifferentTypesNotEqual_SameCenters
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=FigureTest.DifferentTypesNotEqual_SameCenters" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"FigureTest.DifferentTypesNotEqual_SameCenters" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.DifferentTypesNotEqual_SameCenters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.DifferentTypesNotEqual_SameCenters
+[       OK ] FigureTest.DifferentTypesNotEqual_SameCenters (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.DifferentTypesNotEqual_SameCenters" end time: Nov 08 14:55 MSK
+"FigureTest.DifferentTypesNotEqual_SameCenters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/60 Testing: FigureTest.DegenerateFiguresStillNotEqual
+58/60 Test: FigureTest.DegenerateFiguresStillNotEqual
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=FigureTest.DegenerateFiguresStillNotEqual" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"FigureTest.DegenerateFiguresStillNotEqual" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.DegenerateFiguresStillNotEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.DegenerateFiguresStillNotEqual
+Height must be positive, resetting to unit triangle.
+Points are identical, resetting to unit square.
+[       OK ] FigureTest.DegenerateFiguresStillNotEqual (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.DegenerateFiguresStillNotEqual" end time: Nov 08 14:55 MSK
+"FigureTest.DegenerateFiguresStillNotEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/60 Testing: FigureTest.SameTypeEqualButDifferentParameters
+59/60 Test: FigureTest.SameTypeEqualButDifferentParameters
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=FigureTest.SameTypeEqualButDifferentParameters" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"FigureTest.SameTypeEqualButDifferentParameters" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.SameTypeEqualButDifferentParameters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.SameTypeEqualButDifferentParameters
+[       OK ] FigureTest.SameTypeEqualButDifferentParameters (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.SameTypeEqualButDifferentParameters" end time: Nov 08 14:55 MSK
+"FigureTest.SameTypeEqualButDifferentParameters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/60 Testing: FigureTest.OctagonAndTriangleNeverEqual
+60/60 Test: FigureTest.OctagonAndTriangleNeverEqual
+Command: "/Users/anton/Desktop/mai_oop_lab_4_32/build/gtests" "--gtest_filter=FigureTest.OctagonAndTriangleNeverEqual" "--gtest_also_run_disabled_tests"
+Directory: /Users/anton/Desktop/mai_oop_lab_4_32/build
+"FigureTest.OctagonAndTriangleNeverEqual" start time: Nov 08 14:55 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureTest.OctagonAndTriangleNeverEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureTest
+[ RUN      ] FigureTest.OctagonAndTriangleNeverEqual
+[       OK ] FigureTest.OctagonAndTriangleNeverEqual (0 ms)
+[----------] 1 test from FigureTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"FigureTest.OctagonAndTriangleNeverEqual" end time: Nov 08 14:55 MSK
+"FigureTest.OctagonAndTriangleNeverEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 08 14:55 MSK
